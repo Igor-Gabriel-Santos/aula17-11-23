@@ -1,0 +1,23 @@
+    .alinhar{
+        text-align: center;
+        align-items: center;
+    }
+
+    .imagem {
+    width: 245px;
+    height: 180px;  
+    border-radius: 6px 6px 6px 6px;
+    }
+    .titulo {
+    font-size: 28px; 
+    margin-bottom: 10px;
+    }
+    .descricao {
+    font-size: 18px; 
+    margin-bottom: 10px;
+    }
+    .categoria {
+    font-size: 23px; 
+    margin-bottom: 10px;
+    font-style: bold;
+    }

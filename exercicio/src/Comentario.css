@@ -1,0 +1,22 @@
+
+
+
+.nome {
+    font-size: 20px;
+    text-align: left;
+    padding-left: 40px;
+}
+
+.imagemusu {
+    width: 70px;
+    height: 70px;  
+    align-items: left;
+    padding-left: 40px;
+}
+
+.comentario {
+    font-size: 15px;
+    text-align: left;
+    padding-left: 40px;
+}
+
